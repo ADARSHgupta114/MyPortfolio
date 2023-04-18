@@ -1,0 +1,10 @@
+{
+    "portfolio":[
+        {
+            "cover": "/portfolio/1/p1.png",
+            "title": "Inventory Manager",
+            "description": "React,JSX,CSS,ExpressJs,MongoD",
+            "url":"https://github.com/ADARSHgupta114/Inventory-Manager"
+        }
+    ]
+}
