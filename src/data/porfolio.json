@@ -5,6 +5,30 @@
             "title": "Inventory Manager",
             "description": "React,JSX,CSS,ExpressJs,MongoD",
             "url":"https://github.com/ADARSHgupta114/Inventory-Manager"
+        },
+        {
+            "cover": "portfolio/1/p1.png",
+            "title": "Hotel Retainer",
+            "description": "Machine learning,Python",
+            "url":"https://github.com/ADARSHgupta114/Hotel-Retainer"
+        },
+        {
+            "cover": "portfolio/1/p1.png",
+            "title": "Flight Fare Predictor",
+            "description": "Machine learning,Python",
+            "url":"https://github.com/ADARSHgupta114/Flight-Fare-Predictor"
+        },
+        {
+            "cover": "portfolio/1/p1.png",
+            "title": "Cardiovascular Diseases",
+            "description": "Machine learning,Python",
+            "url":"https://github.com/ADARSHgupta114/Machine-Learning"
+        },
+        {
+            "cover": "portfolio/1/p1.png",
+            "title": "SuperMarket Biller",
+            "description": "C++,Data Structures and Algorithm,File Handling,OOPS",
+            "url":"https://github.com/ADARSHgupta114/SuperMarket_Billing"
         }
     ]
 }

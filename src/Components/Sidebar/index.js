@@ -9,6 +9,7 @@ import {
  
 } from '@fortawesome/free-brands-svg-icons'
 import {
+  faGear,
   faHome,
   faUser,
   faEnvelope,
@@ -67,6 +68,16 @@ const Sidebar = () => {
           color="#ffd700"
           size="3x"
           className='close-icon' />
+        
+        <NavLink
+          activeclassname="active"
+          className="skills-link"
+          to="/skills"
+          onClick={() => setShowNav(false)}
+        >
+          <FontAwesomeIcon icon={faGear} color="#4d4d4e" />
+        </NavLink>
+
       </nav>
       <ul>
         <li>

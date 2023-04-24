@@ -3,6 +3,9 @@
   height: 100%;
   position: absolute;
 }
+.tech-tag {
+  color: #ffd700;
+}
 
 .top-tags {
   bottom: auto;
@@ -40,7 +43,8 @@
 
 .container.contact-page,
 .container.about-page,
-.container.portfolio-page {
+.container.portfolio-page,
+.container.skill-page {
   
     h1 {
       font-size: 53px;
