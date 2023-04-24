@@ -28,7 +28,8 @@ const Skills = () =>{
             <span class="tech-tag">HTML5</span>,
             <span class="tech-tag">React</span>,
             <span class="tech-tag">Git</span>,
-            <span class="tech-tag">Machine Learning</span>
+            <span class="tech-tag">Machine Learning,</span>
+            <span class="tech-tag">MySQL</span>
             , etc.
             </p> 
             <p>
