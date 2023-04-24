@@ -87,7 +87,7 @@ const Contact =()=>{
           Kolkata<br />
           West Bengal <br />
           <br />
-          <span>freelanceradarsh@gmail.com</span>
+          <span>adarshraj114@gmail.com</span>
         </div>
       </div>
       <Loader type="pacman" />
